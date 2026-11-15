@@ -1,0 +1,9 @@
+GORDO ROYALE — BAJADA DEL KEBAB
+
+Esta carpeta contiene la exportación independiente de Windows. Ejecuta `Gordo Royale.exe` después de extraerla completa.
+
+En el equipo de desarrollo, Windows App Control bloqueó el ejecutable porque no está firmado. Para probarlo en ese equipo, usa el paquete `Gordo-Royale-Prueba-Windows.zip`: extrae la carpeta, ejecuta `iniciar-editor.bat` y pulsa F5.
+
+El juego usa UDP 7777 para la sala host. Jugar desde otra casa requiere permitir y reenviar ese puerto. La conexión entre dos PCs aún no se ha validado.
+
+Conserva `THIRD_PARTY_NOTICES.md` y la carpeta `licenses` si redistribuyes el juego.

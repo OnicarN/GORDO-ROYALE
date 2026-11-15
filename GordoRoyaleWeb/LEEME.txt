@@ -1,0 +1,27 @@
+GORDO ROYALE
+============
+
+COMO JUGAR (tu, el anfitrion)
+1. Doble clic en JUGAR.bat. Se abre una ventana negra (el servidor) y el juego en tu navegador.
+   La primera vez Windows puede preguntar por el firewall: pulsa "Permitir".
+2. Escribe tu nombre y pulsa JUGAR. Haz clic en la pantalla para capturar el raton.
+3. En la sala de espera veras la direccion que tiene que abrir tu amigo.
+4. Cuando esteis todos, pulsa ENTER para empezar. Los huecos hasta 20 se rellenan con bots.
+
+TU AMIGO
+No tiene que instalar nada: solo abre en Chrome/Edge/Firefox la direccion que le pases.
+- Misma casa / misma WiFi:  http://TU-IP-LOCAL:3000   (sale en la sala de espera y en la ventana negra)
+- Desde otra casa (internet), una de estas dos:
+  a) Abrir el puerto 3000 TCP en tu router hacia tu PC y pasarle http://TU-IP-PUBLICA:3000
+  b) Instalar los dos Tailscale o Radmin VPN (gratis) y pasarle http://IP-DE-LA-VPN:3000
+
+CONTROLES
+WASD moverse | Raton mirar | Shift correr | Espacio saltar
+Clic izquierdo espadazo | Clic derecho o Q granada de caca | Esc soltar el raton
+
+OBJETIVO
+Ultimo gordo en pie. Rompe cofres dorados y cajas para conseguir espadas, granadas y hamburguesas.
+Los Cocineros Grasientos (puntos rojos del minimapa) sueltan la Espada de Fuego.
+El REY GORDO (centro del mapa) suelta la GORDOCALIBUR.
+Los barriles rojos explotan. Las granadas de caca revientan arboles, cajas y gordos.
+No te quedes fuera del circulo morado: la tormenta hace cada vez mas daño.
