@@ -1,0 +1,8 @@
+builds/Gordo-Royale-Prueba-Windows.zip filter=lfs diff=lfs merge=lfs -text
+tools/Godot_v4.7.2/Godot_v4.7.2-stable_win64.exe filter=lfs diff=lfs merge=lfs -text
+builds/Gordo-Royale-Windows/tools/Godot_v4.7.2/Godot_v4.7.2-stable_win64.exe filter=lfs diff=lfs merge=lfs -text
+vendor/Quaternius_Universal_Base_Characters_Standard.zip filter=lfs diff=lfs merge=lfs -text
+builds/Gordo[[:space:]]Royale.exe filter=lfs diff=lfs merge=lfs -text
+builds/Gordo-Royale-Windows/Gordo[[:space:]]Royale.exe filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,15 @@
+GORDO ROYALE — PAQUETE PARA PROBAR
+
+1. Extrae este ZIP completo.
+2. Ejecuta iniciar-editor.bat.
+3. Cuando se abra Godot, pulsa F5.
+
+Godot portátil va incluido. Mantén la estructura de carpetas para que funcione el lanzador.
+
+Para jugar solo: pulsa JUGAR EN SOLITARIO · 19 BOTS en el menú inicial. La partida es offline y tiene 20 participantes: tú y 19 bots. En un lobby online, el anfitrión puede usar LLENAR SALA HASTA 20 CON BOTS.
+
+Los bots saltan del autobús, buscan botín y pelean. Controles: WASD, Shift, Espacio, ratón, clic izquierdo, Q, E, Tab y G.
+
+La partida de prueba offline creó 20 jugadores e inició la cuenta atrás sin errores. La conexión entre dos PCs aún necesita validación real.
+
+La exportación independiente sin firma la bloquea Windows App Control en el equipo de desarrollo; por eso este paquete ejecuta el proyecto con el editor oficial firmado.
